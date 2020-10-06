@@ -1,0 +1,273 @@
+/**
+ * @package Helix Ultimate Framework
+ * @author JoomShaper https://www.joomshaper.com
+ * @copyright Copyright (c) 2010 - 2018 JoomShaper
+ * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or Later
+ */
+body, .sp-preloader {
+  background-color: #fff;
+  color: #222454;
+}
+.sp-preloader > div {
+  background: #222454;
+}
+.sp-preloader > div:after {
+  background: #fff;
+}
+#sp-top-bar {
+  background: #333;
+  color: #aaa;
+}
+#sp-top-bar a {
+  color: #aaa;
+}
+#sp-header {
+  background: #222454;
+}
+.free-quote.sppb-btn:hover:after, .free-quote.sppb-btn:focus:after {
+  background: #ffac04;
+}
+a {
+  color: #222454;
+}
+a:hover, a:focus, a:active {
+  color: #222454;
+}
+.tags > li {
+  display: inline-block;
+}
+.tags > li a {
+  background: rgba(34, 36, 84, 0.1);
+  color: #222454;
+}
+.tags > li a:hover {
+  background: #222454;
+}
+.article-social-share .social-share-icon ul li a {
+  color: #222454;
+}
+.article-social-share .social-share-icon ul li a:hover, .article-social-share .social-share-icon ul li a:focus {
+  background: #222454;
+}
+.pager > li a {
+  border: 1px solid #ededed;
+  color: #222454;
+}
+.sp-megamenu-parent > li:hover > a {
+  color: #ffac04;
+}
+.sp-megamenu-parent > li.active > a, .sp-megamenu-parent > li.active:hover > a {
+  color: #ffac04;
+}
+.sp-megamenu-parent .sp-dropdown .sp-dropdown-inner {
+  background: #fff;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item > a {
+  color: #222454;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item > a:hover {
+  color: #ffac04;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active > a {
+  color: #ffac04;
+}
+.sp-megamenu-parent .sp-mega-group > li > a {
+  color: #222454;
+}
+#offcanvas-toggler > .fa:hover, #offcanvas-toggler > .fa:focus, #offcanvas-toggler > .fa:active {
+  color: #ffac04;
+}
+body.ltr .offcanvas-menu .offcanvas-inner .sp-module ul > li ul {
+  background-color: #1b1c42;
+}
+.offcanvas-menu {
+  background-color: #222454;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li > a:hover, .offcanvas-menu .offcanvas-inner .sp-module ul > li > span:hover, .offcanvas-menu .offcanvas-inner .sp-module ul > li > a:focus, .offcanvas-menu .offcanvas-inner .sp-module ul > li > span:focus {
+  background-color: #1b1c42;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li.active > a {
+  background-color: #ffac04;
+  color: #fff;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li.menu-parent > a > .menu-toggler, .offcanvas-menu .offcanvas-inner .sp-module ul > li.menu-parent > .menu-separator > .menu-toggler {
+  color: #fff;
+}
+.btn-primary, .sppb-btn-primary {
+  border-color: #222454;
+  background-color: #222454;
+}
+.btn-primary:hover, .sppb-btn-primary:hover {
+  border-color: #222454;
+  background-color: #222454;
+}
+.layout-boxed .body-innerwrapper {
+  background: #fff;
+}
+.sp-module ul > li > a {
+  color: #222454;
+}
+.sp-module ul > li > a:hover {
+  color: #222454;
+}
+.sp-module .latestnews > div > a {
+  color: #222454;
+}
+.sp-module .latestnews > div > a:hover {
+  color: #222454;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #222454;
+}
+.search .btn-toolbar button {
+  background: #222454;
+}
+#sp-footer, #sp-bottom {
+  color: #fff;
+}
+#sp-footer a, #sp-bottom a {
+  color: #a2a2a2;
+}
+#sp-footer a:hover, #sp-bottom a:hover, #sp-footer a:active, #sp-bottom a:active, #sp-footer a:focus, #sp-bottom a:focus {
+  color: #fff;
+}
+#sp-footer {
+  background: #191b3e;
+}
+#sp-bottom {
+  background: #1e1f49;
+}
+#sp-bottom .sp-module-content .latestnews > li > a > span {
+  color: #fff;
+}
+.sp-comingsoon body {
+  background-color: #222454;
+}
+.pagination > li > a, .pagination > li > span {
+  color: #222454;
+}
+.pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus {
+  color: #222454;
+}
+.pagination > .active > a, .pagination > .active > span {
+  border-color: #222454;
+  background-color: #222454;
+}
+.pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+  border-color: #222454;
+  background-color: #222454;
+}
+.error-code, .coming-soon-number {
+  color: #222454;
+}
+/**********************************************************************************/
+/********************************* Shaper Fixter *********************************/
+/********************************************************************************/
+.article-list .article .article-header h1 a, .article-list .article .article-header h2 a {
+  color: #222454;
+}
+.article-list .article .article-intro-image:after {
+  background: #ffac04;
+}
+.article-list .article .readmore a {
+  color: #222454;
+}
+.article-info > span a {
+  color: #222454;
+}
+.sppb-btn.sppb-btn-default {
+  color: #222454;
+}
+.sppb-btn.sppb-btn-primary {
+  background-color: #222454;
+}
+.sppb-btn.sppb-btn-primary:after {
+  background: #ffac04;
+}
+.com-users.view-reset .registration .sppb-btn.sppb-btn-primary:hover, .com-users.view-remind .registration .sppb-btn.sppb-btn-primary:hover, .com-users.view-registration .registration .sppb-btn.sppb-btn-primary:hover, .com-users.view-reset .remind .sppb-btn.sppb-btn-primary:hover, .com-users.view-remind .remind .sppb-btn.sppb-btn-primary:hover, .com-users.view-registration .remind .sppb-btn.sppb-btn-primary:hover, .com-users.view-reset .reset .sppb-btn.sppb-btn-primary:hover, .com-users.view-remind .reset .sppb-btn.sppb-btn-primary:hover, .com-users.view-registration .reset .sppb-btn.sppb-btn-primary:hover, .com-users.view-reset .registration .sppb-btn.sppb-btn-primary:focus, .com-users.view-remind .registration .sppb-btn.sppb-btn-primary:focus, .com-users.view-registration .registration .sppb-btn.sppb-btn-primary:focus, .com-users.view-reset .remind .sppb-btn.sppb-btn-primary:focus, .com-users.view-remind .remind .sppb-btn.sppb-btn-primary:focus, .com-users.view-registration .remind .sppb-btn.sppb-btn-primary:focus, .com-users.view-reset .reset .sppb-btn.sppb-btn-primary:focus, .com-users.view-remind .reset .sppb-btn.sppb-btn-primary:focus, .com-users.view-registration .reset .sppb-btn.sppb-btn-primary:focus {
+  background-color: #ffac04;
+}
+.article-list .article .article-header h1 a:hover, .article-list .article .article-header h2 a:hover, .article-list .article .article-header h1 a:active, .article-list .article .article-header h2 a:active, .article-list .article .article-header h1 a:focus, .article-list .article .article-header h2 a:focus {
+  color: #ffac04;
+}
+.article-list .article .readmore a:hover, .article-list .article .readmore a:active, .article-list .article .readmore a:focus {
+  color: #ffac04;
+}
+.article-info > span a:hover {
+  color: #222454;
+}
+.view-article.layout-blog .sppb-addon-testimonial span.fa {
+  color: #ffac04;
+}
+.pager > li a:hover, .pager > li a:focus {
+  background-color: #ffac04;
+}
+.pagination-wrapper .pagination .page-item > a:hover, .pagination-wrapper .pagination .page-item > a:focus {
+  color: #ffac04;
+}
+.pagination-wrapper .pagination .page-item.active > a {
+  color: #ffac04;
+}
+html.coming-soon body {
+  background: #222454;
+}
+html.error-page body {
+  background-color: #222454;
+}
+html.error-page .error-button span.fa {
+  background: #ffac04;
+}
+.sppb-slider-wrapper.sppb-slider-fullwidth-wrapper .sppb-slideshow-fullwidth-item-text .sppb-fw-slider-button-wrapper .sppb-btn:after {
+  background-color: #222454;
+}
+.sppb-slider-wrapper.sppb-slider-fullwidth-wrapper .sppb-slideshow-fullwidth-item-text .sppb-fw-slider-button-wrapper .sppb-btn i.fa {
+  background: #222454;
+}
+.sppb-slider-wrapper.sppb-slider-fullwidth-wrapper.style-one .sppb-slideshow-fullwidth-item-text-wrap {
+  color: #222454;
+}
+.service-button:hover:after, .service-button:focus:after {
+  background: #222454;
+}
+.acymailing_module_form .acymailing_form .acysubbuttons {
+  background: #ffac04;
+}
+.acymailing_module_form .acymailing_form .acysubbuttons:hover, .acymailing_module_form .acymailing_form .acysubbuttons:focus {
+  background: #d08b00;
+}
+.service-item .sppb-img-container:after {
+  background-color: rgba(255, 172, 4, 0.9);
+}
+.sppb-testimonial-pro .sppb-carousel-indicators li.active {
+  background-color: #ffac04;
+}
+#sp-menu-right .menu-right-button:hover, #sp-menu-right .menu-right-button:focus {
+  background-color: #ffac04;
+}
+.major-color-overlay:after {
+  background: rgba(255, 172, 4, 0.9);
+}
+.my-feature-box:hover .sppb-icon {
+  color: #ffac04;
+}
+.sppb-addon-articles .sppb-addon-article:hover .img-wrapper:after {
+  background-color: #ffac04;
+}
+.sppb-addon-articles .sppb-addon-article .article-info-wrapper h2 a:hover, .sppb-addon-articles .sppb-addon-article .article-info-wrapper h2 a:focus {
+  color: #ffac04;
+}
+.sppb-addon-articles .sppb-addon-article .article-info-wrapper .sppb-readmore:hover, .sppb-addon-articles .sppb-addon-article .article-info-wrapper .sppb-readmore:focus {
+  color: #ffac04;
+}
+.carpenter-service .sppb-addon-feature h2.sppb-feature-box-title a:hover, .carpenter-service .sppb-addon-feature h2.sppb-feature-box-title a:focus {
+  color: #ffac04;
+}
+.sppb-addon-tab .sppb-tab.custom-tab .sppb-nav > li:before {
+  background: #222454;
+}
+.carpenter-cta {
+  background-color: #222454;
+}
+.carpenter-cta h3.sppb-addon-title {
+  color: #ffac04;
+}
